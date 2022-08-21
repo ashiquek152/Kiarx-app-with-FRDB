@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358494410018",
+    "firebase_url": "https://kiarx-machine-test-app-default-rtdb.firebaseio.com",
+    "project_id": "kiarx-machine-test-app",
+    "storage_bucket": "kiarx-machine-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358494410018:android:a7a65bbea04914e0ce417b",
+        "android_client_info": {
+          "package_name": "com.kiarx.kiarx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358494410018-jmqe12u1pjeggh34gm61m8hhjflg3v4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiarx.kiarx",
+            "certificate_hash": "7c6b3ed3afcef08415f5b53157b0f514ea99d533"
+          }
+        },
+        {
+          "client_id": "358494410018-tv3u4ptufran6uks3536svigvhepho51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPvXFG3TlNTsbop7vZZboG5MQqWDV40k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358494410018-tv3u4ptufran6uks3536svigvhepho51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
